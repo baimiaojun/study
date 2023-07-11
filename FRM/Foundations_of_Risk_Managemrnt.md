@@ -68,4 +68,93 @@ risk of loss resulting from inadequate or failed internal processes, people, and
 
 ### Reputation risk 声誉风险
 
+# How do firms manage finanal risk
 
+## Process of Risk Management
+
+ 1. identify risk appetite 识别风险偏好
+   - the amount and types of risk a firm is willing to accept
+   - can be  expressed in quantitative(定量) or qualitative(定性) statements
+   - in constrast to risk capacity (the max amount of risk a firm can absorb)
+   - determining the risk management(The board)
+     - The board (由董事会来决定 risk appetite)communicate with management 
+     - there must be a logical relationship between the firm’s risk appetite and its business strategy必须和业务战略相一致
+     - must consider the potential conflict between debt holders(比较保守) and shareholders(更加愿意冒险) 必须考虑到债主和股东之间的利益关系
+     - the role of the board  in determining(set the objectives --> set the criteria in advance --> deckare to hedge accounting profit or economic profits and short-term profits or long-term profits --> clarify the time horizon)
+ 2. mapping the risk(绘制风险图谱), make choice 可视化风险以做出更好的选择
+     - chosing instruments for risk management(Exchange traded 场内交易工具(option 一部分期权， 如上证50ETF, futures) or over the counter(OTC) 场外交易(Forward 远期, swap互换, option 一部分期权))
+ 4. Operationalize risk appetite 实施风险偏好
+ 5. Implement 实现
+ 6. Re-evaluate regularly to capture changes 再评估
+
+## Cons and Pros of Hedging 风险对冲的同意与反对（优缺点）
+
+1. Disadvantages
+  - active hedging may distract management from its core business 分散管理层在核心业务上的注意力
+  - risk management requires specialized skills, knowledge...
+  - a flawed risk management can drag a firm down even more quickly 错误的风险管理可能使公司陷入更大的困境
+  - even a well-developed risk management strategy has complance cost 存在一些成本
+2. advantages
+  - reduce the cost of capital by reducing the volatility of earning or cash flow 减少融资成本，因为公司表现好，更好融资
+  - indicate that management is doing a good job, reflected directly in the firm’s stock price反应管理层的工作做的很好
+  - allow management better control over the firm’s economic performance
+  - derivatives instruments may be cheaper than purchasing an insurance policy
+  - hedging may offers synergies(协同) with the operations of the firm 对冲做的好可以和公司其他业务协同变好
+ 
+ 
+# The Governance of Risk Management 风险管理的治理
+
+## Corporate Governance 公司治理
+
+- the way in which companies are run, describes the role and reponsibilities of a firm’s shareholders, board of directors and senior management
+- manage the conflicting intereests between shareholders and other stakeholders
+- best practice行业最高操作标准
+    - The board keeps independent from the management
+    - The board looks after the interests of all stakeholders
+    - The board develops a clear business strategy and make sure that risks are made transparent to stakeholders
+    - The board should be careful of potential agency risk(management may take more risks to max personal benefits)
+    - The board should consider the introduction of a chief risk offer(CRO 高管)
+    - The board should demand substance over form 实质大于形式 （focus on the firm’s econcmic performance）
+    - The board promotes a robust risk management process
+    - The board set up an ethics committee道德委员会 and establish strong ethical standards
+    - Board make sure that the way staff are rewarded and compensated is based on risk-adjusted performance
+    - Board approves all major transactions
+    - Board has a risk committee 风险委员会, separate from the audit committe 审计委员会
+    - Board makes sure a firm’s risk management plan aligns risk appetite with business strategy
+   
+ 
+## Mechanisms of Risk Governance 风险治理的机制
+
+### Risk management in corporate governance(risk governance)
+- set up an organizationa infrastructure 设置治理框架
+- transparency: establish channels of communication
+1. risk appetite and limit policies(market risk and credit risk limit)
+2. Monitoring risk
+
+
+1. Risk management committee 风险管理委员会
+    - set the firm’s  risk appetite and independently review the governance of all material risk
+    - responsible for : 
+      - identify, measure and monitor finanical risks
+      - approve credit facilities
+      - monitors the composition of a bank’s lending and investment portfolios in light of the current economic environment
+2. Audit committee 审计委员会
+    - is accountable from the accuracy and completeness of a firm’s financial and regulatory disclosures, the firm’s compliance with the best practice standards in non-financial matters
+    - are required to be financial literate 专家
+    - be independent but productive(保持一致) with the management
+3. Compensation committee 薪酬委员会 (for management)
+    - keep independent of management
+    - be aligned with the long-term interests of shareholders and other stakeholders, and with risk-adjusted return on capital RAROC
+
+
+#### Risk advisory director (RAD)风险专家顾问（董事会成员）
+
+- is a board member and a risk specialist who attends risk committee and audit committee
+
+#### Chief risk officer (CRO) （高管）
+- establish an ERM(全面风险管理) approach
+- report to CEO or CFO, but dotted-line to the board(如果CEO或者CFO有问题，可以直接向board汇报)
+
+### interdependence of functional units
+- need to work together
+- all transaction data must be recorded correctly(operations unit is extremely inportance to record data)
