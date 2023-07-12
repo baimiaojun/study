@@ -158,3 +158,62 @@ risk of loss resulting from inadequate or failed internal processes, people, and
 ### interdependence of functional units
 - need to work together
 - all transaction data must be recorded correctly(operations unit is extremely inportance to record data)
+
+
+## Credit Risk Transfer Machanisms 信用风险转移机制
+
+The core risk exposure for banks is credit risk.
+
+### method
+- purchasing insurance from a third-party guarantor
+- netting of exposures to counterparties 净额结算
+- market to market/margining 逐日盯市
+- requiring collateral be posted 抵押品（存在wrong-way risk 雪上加霜）
+- Termination(终止) / Put option(看跌期权)
+- Reassignment of a credit exposure to another party
+
+### short comings
+- require specific agreement
+- may not easily fit the need/goals
+- don’t isolate隔离 the credit risk from the underlying positions
+- do not effectively “slice and dice” (切片、切块)risk 风险消失，收益也消失（一刀切）
+
+### novel credit derivatives 信用衍生品
+
+novel credit derivatives and securitizations 资产证券化
+
+intruments:
+- credit default swaps(CDSs)
+- collateralized debt obligations(CDOs)
+- collateralized loan obligations(CLOs)
+
+advantages:
+- credit price discovery 信用价格发现 开发了信用衍生品市场 robust,liquid, transparent
+- CDS (信用产品的保险) price (保费) offer a means to monitor default risks （保费的变化体现了信用风险的大小）
+- off-balance sheet instrument 表外工具（不用卖掉标的资产，只需要交易信用衍生品，就可以缓释风险）
+- fine tuning of thr vredit portfolio and positions
+
+disadvantages:
+- should understand the full nature of the risk transfer(需要具备一定的知识)
+- need to understand when the contract is enforceable and when it is not
+- systemic concentration risk 风险集中
+
+### The mechanics of securitization 资产证券化
+repackaging of loans and other assets into new securities that can be sold in the securities market
+
+- special purpose vehicle (SPV)
+- from traditional buy-and-hold strategy to a new originate-to-distribute(OTD) 贷款再分配 business model
+
+benefits of OTD
+- Originators(banks): greater capital efficiency 提高资本效率and enhanced funding opportunities 增加投资机会and lower earnings volatility 降低盈利波动性
+- Investors: a wider array of investments 投资选择面变广 , better sync their risk/return profiles with their goals and preference 更好匹配风险偏好
+- Borrowers: the expansion of available credit and product options,lower borrowing costs贷款选择变多，且导致利率下降
+
+erosion of OTS 缺点
+- moral hazard 道德风险
+
+The issues needed to be addressed:
+- misaligned incentives along the securitization chain, driven by the pursuit of short-term profits 在追求短期利润的驱动下，证券化链上的激励机制不一致
+- the risk embedded in securitized products were not transparent
+- poor securitization risk management 风险管理做的不够
+- an overreliance on the accuracy and transparency of credit ratings
