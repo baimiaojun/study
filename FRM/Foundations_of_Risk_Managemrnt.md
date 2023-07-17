@@ -217,3 +217,46 @@ The issues needed to be addressed:
 - the risk embedded in securitized products were not transparent
 - poor securitization risk management 风险管理做的不够
 - an overreliance on the accuracy and transparency of credit ratings
+
+
+# Portfolio Management
+
+## Modern Portfolio Theory (MPT) and Capital Asset Pricing Model
+
+### MPT
+
+均值-方差分析框架（均值：期望收益率， 方差：风险）
+
+1. Assumption of MPT
+  - Captial markets are perfect
+    - There are no taxes or transaction costs
+    - All traders have costless(不需要费用) access to all available information
+    - Perfect competition exists among all market participants(完全竞争，不存在垄断)
+  - Returns are normally distributed
+2. Measurements of return
+  - Average return (Arithmetic return) 算术平均值 $R = (R_1 + ... + R_n) / n$
+3. Measurements of risk
+  - Population variance $\sigma^2 = \frac{\sum_{i=1}^N(X_i - \mu)^2}{N}$
+  - Sample variance $s^2 = \frac{\sum_{i=1}^n(X_i - \overline X)^2}{n-1}$
+4. Utility Theory
+  - Behavior of investors under uncertainty
+    - Risk averse (风险厌恶): minimize the risk for the same amount of return and maximize the return for the same amount of risk (rational investor), prefer a higher mean return and a lower variance(A > 0)
+    - Risk neutral (风险中性): maximize return irrespective of risk (不考虑风险)(A = 0)
+    - Risk seeking(风险偏好): maximize both risk and return (A < 0)
+  - Utility function 
+    - $U = E(R) - \frac{1}{2}A\sigma^2$(A = a measure of risk aversion)
+    - A measure to rank different portfolios in the order of tgeir preference
+    - quantify the rankings of investment choices using risk and return 
+    - Indifference curve (无差别曲线): the combinations of risk-return pairs that an investor would accept tp maintain a given level of utility(无差别曲线上的点对应的效用是一致的)
+      - For  a risk-averse investor, the curves are upward sloping and convex(get steeper) because of diminishing marginal utility of return (边际效用递减)
+      - For various types of investors, the more risk-averse the investor, the steeper the curve
+5. Efficient Frontier (有效前沿)
+  - Return and risk of portfolio with two risky assets
+    - Return : $R_p = w_1R_1 + w_2R_2$
+    - Risk: $\sigma_p = \sqrt{w_1^2\sigma_1^2 + w_2^2\sigma_2^2 + 2w_1w_2Cov(R_1, R_2)} = \sqrt{w_1^2\sigma_1^2 + w_2^2\sigma_2^2 + 2w_1w_2\rho_{1,2}\sigma_1\sigma_2}$
+    - risk decreases as the assets are becoming less correlated
+  - Efficient Frontier: All attainable portfolios with all risky assets
+    - minimum-variance frontier of risky assets
+    - global minimum-variance portfolio
+    - efficient frontier (also called Markowitz efficient frontier)
+6. Optimal portfolio selection: the tangent(切点) point of indifference curve to efficient frontier
