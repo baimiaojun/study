@@ -302,4 +302,23 @@ CAL的斜率：sharpe ratio
 7. Auusmptions of CAPM
 - investors are expected to make decisions only in terms of expected values and standard deviations of the returns
 - investor plan for the same single holding period (只对未来一期做预测)
-- 
+- infinitely divisible 资产无限可分，任意比例分配
+- no transaction cost and no tax, or other freictions
+- short sale is allowed unlimitedly 想做空就可以做空
+- all participants can borrow and lend at a common risk-free rate 
+- investor have homogeneous expectations or beliefs
+- any individual investor’s allocation decision cannot change the market prices
+- All assets, including human capital(人力资产), are tradable
+
+8. Components of CAPM
+$$E(R_i) = R_f + \beta_i[E(R_m) - R_f]$$
+- $E(R_m) - R_f$: market portfolio risk premium(风险溢价)
+- Rewriting: $E(R_i) = R_f + \sigma_i\rho_{i,m}[E(R_m) - R_f]$
+
+9. Security market line (SML)证券市场线
+- 均衡市场 the market in equilibrium， 投资者无法获得超额收益 , all securities will lie on the Security market line
+- security selection (properly priced(on SML), overpriced(below SML), underpriced(above SML))
+
+10. CML vs. SML
+![图片](assets/IMG_1.png)
+
