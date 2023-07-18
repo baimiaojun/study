@@ -260,3 +260,46 @@ The issues needed to be addressed:
     - global minimum-variance portfolio
     - efficient frontier (also called Markowitz efficient frontier)
 6. Optimal portfolio selection: the tangent(切点) point of indifference curve to efficient frontier
+
+### CAPM(Capital Asset Pricing Model)
+
+1. Capital market theory
+
+each investor’s portfolio is just a combination of risky assets and risk-free asset
+
+2. Capital asset pricing model (CAPM)
+
+break down the risk of an individual asset into specific risk(特定风险) and systematic risk (系统性风险)
+
+3. Capital allocation line (CAL) 资本分配线
+
+$R_p = w_{risky}R_{risky} + w_{risk-free}R_{risk-free}$
+$\sigma_p = w_{risk}\sigma_{risky}$
+
+CAL的斜率：sharpe ratio
+
+- CAL(P) is the optimal CAL, which is tangent to efficient frontier of risky assets
+
+4. Capital market line (CML)
+
+- assuming all investors have a homogeneous expection (一致的预期)：same CAL and same efficient frontier (call the same CAL: CML Capital market line): mrket portfolio
+- market portfolio: CML is tangent to the efficient frontoer at a point
+- market portfolio: includes all of the risky assets in the economy weighted by their relative market values(按照市值比例作为权重的所有风险资产组合) 
+- CML: $E(R_p) = R_f + \frac{E(R_m) - R_f}{\sigma_m}\sigma_p$
+- CML is the efficient frontier for all assets (include risky assets and risk-free assets)
+
+5. Systematic risk & Unsystematic risk 系统性风险和非系统性风险
+- Systematic risk(non-diversifiable risk or market risk): the risk affects the entire market or economy, cannot be avoided and inherent(固有的) in the overall market. e.g. macro factors
+- only be rewarded for bearing  Systematic risk not for bearing Unsystematic risk
+- Unsystematic risk(firm-specific risk or idiosyncratic risk) : can be reduced by holding well-diversified portfolios
+
+6. $Beta(\beta)$
+- Systematic risk can be measure by  $Beta(\beta)$ of asset, reppresenting how sensitive an asse’s return is to the market
+- From an investor’s perspective, $\beta$ represents Systematic risk
+- $\beta_i = \frac{cov(R_i, R_m)}{\sigma_{mkt}^2} = \frac{\rho_{i,m}\sigma_i\sigma_m}{\sigma_m^2} = \rho_{i,m}\frac{\sigma_i}{\sigma_m}$
+- take on positive or negative values
+
+7. Auusmptions of CAPM
+- investors are expected to make decisions only in terms of expected values and standard deviations of the returns
+- investor plan for the same single holding period (只对未来一期做预测)
+- 
