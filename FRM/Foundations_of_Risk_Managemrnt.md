@@ -322,3 +322,53 @@ $$E(R_i) = R_f + \beta_i[E(R_m) - R_f]$$
 10. CML vs. SML
 ![图片](assets/IMG_1.png)
 
+## Performance Measures
+
+### Sharpe Performance Index (SPI) 夏普比率
+
+$SPI = \frac{E(R_i) - R_f}{\sigma_i}$
+
+- 分子： mean excess return 超额回报
+- 分母： standard deviation （总风险）
+- the higher is better
+- the slope of CAL
+
+### Treynor Performance Index (TPI) 特雷诺比率
+
+$TPI = \frac{E(R_i) - R_f}{\beta_i}$
+
+- 分子： mean excess return 超额回报
+- 分母： Beta (系统性风险)
+- the higher is better
+- the slope of SML
+- in CAPM: $TPI = E(R_m) - R_f$ 
+- $E(R_m) - R_f$ are also called the alpha measure
+- for well-diversified portfolios
+
+### Jensen’s Performance Index (JPI) : Jensen’s $\alpha$
+
+$\alpha_i = R_i - [R_f + \beta(R_m - R_f)]$
+
+- the difference between actual return and return required to compensate for systematic risk (CAPM)
+- for well-diversified portfolios
+- 变形后: $TPI = \alpha \frac{1}{\beta_i} + (R_m - R_f)$
+
+### Sortino Ratio 索提诺(SR)
+
+$SR = \frac{R_p - T}{\sqrt{\frac{1}{N}\sum_{t=1}^N min(0, R_{pt}-T)^2}}$
+
+- a modification of SPI
+- focus on downside risk 注重亏损的部分
+- 分母：downside deviation 半标准差, the standard deviation of negative returns
+- T: target or required rate of return (minimum accepted rate MAR)
+
+### Tracking Error 跟踪误差(TE)
+
+$TE = \sigma_{R_p - R_b}$
+
+- the standard deviation of return difference between the portfolio and the benchmark
+- $R_b$: benchmark
+
+### Information Ratio 信息比率(IR)
+
+$IR = \frac{E(R_p) - E(R_b)}{\sigma_{R_p - R_b}}$
