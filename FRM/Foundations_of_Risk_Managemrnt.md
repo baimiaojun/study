@@ -372,3 +372,53 @@ $TE = \sigma_{R_p - R_b}$
 ### Information Ratio 信息比率(IR)
 
 $IR = \frac{E(R_p) - E(R_b)}{\sigma_{R_p - R_b}}$
+
+## The Arbitrage Pricing Theory and Multifactor Models of Risk and Return
+
+### Arbitrage Pricing Theory 套利定价理论
+
+1. CAPM vs. APT
+
+- CAPM asserts that the expected return on any asset is determined by its exposure (known as beta) to only one systematic risk factor(market risk)
+- CAPM assumption: all investors have a homogeneous expection 
+- APT asserts that the expected return on any asset is determined by its exposure one or more systematic risk factors
+- CAPM can be regarded as a special case of APT
+- APT only auusumes that there are no arbitrage opportunities
+
+2. Auusmption of APT
+- Security returns can be described by a factor model and can be explained by systemic factors
+- there are sufficient securities to diversify away ynsystematic risk 
+- there are no arbitrage opportunities, if any arbitrage opportunities were to exist, investors would exploit them away
+- don’t assume investors hold efficient portfolios and don’t assume risk averse
+
+3. formula
+$$E(R_p) = R_f + \bets_{p,1}(\lambda_1) + \bets_{p,2}(\lambda_2) + ... + \bets_{p,k}(\lambda_k)$$
+
+- $\beta_{p, j}$: the sensitivity of the portfolio to factor j
+- $\lambda_j$: the factor risk premium fro factor j (超额)
+- Pure factor portfolio: a portfolio with sensitivity of 1 to factor j and sensitivity of 0 to all other factors: can be used to hedge exposures to multiple factors
+
+4. APT
+- The law of price (一价定律)： if two assets are equivalent in all economically relevant respects, then they should have the same market price
+- Arbitrage opportunity arises when an investor can earn riskless profits without making a net investment
+
+5. Fama-French three factor model
+- sysmatic factors: market index, firm size(market capitalization) and book-to-market ratio
+- $R_i - R_F = \alpha_i + \beta_{i,M}(R_M - R_f) + \beta_{i, SMB}SMB + \beta_{i,HML}HML + e_i$
+- $SMB$: Small Minus Big, i.e., the return of a portfolio of small stocks in excess of the return on a portfolio of large stocks
+- $HML$: High Minus Low, i.e., he return of a portfolio of stocks with a high book-to-market ratio(value stock 价值股) in excess of the return on a portfolio of stocks with a low book-to-market ratio(growth stock 成长股、垃圾股)
+- $\alpha_i$: the residual return of asset i after controlling for the three factors
+- $e_i$: random data
+
+### Multifactor Model
+
+measure asset return and manage exposure to economy-wide risk factors(i.e. GDP, inflation)
+
+$$R_i = E(R_i) + \beta_{i, 1}F_1 + \beta_{i, 2}F_2 + ... + \beta_{i, k}F_k + e_i$$
+
+- $R_i$: return on asset i
+- $E(R_i)$: expected return on asset i
+- $\beta_{i,j}$: beta for factor j on asset i
+- $F_j$: deviation of  factor j from its expected value value(surprise)
+- $e_i$: firm-spectfic return for asset i (residual)
+
