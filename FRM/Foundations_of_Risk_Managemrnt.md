@@ -422,3 +422,76 @@ $$R_i = E(R_i) + \beta_{i, 1}F_1 + \beta_{i, 2}F_2 + ... + \beta_{i, k}F_k + e_i
 - $F_j$: deviation of  factor j from its expected value value(surprise)
 - $e_i$: firm-spectfic return for asset i (residual)
 
+# Principles For Effective Data Aggregation and Risk Reporting 数据整合、风险报告
+
+##  Risk Data Aggregation
+
+### Introduction of risk data
+- internal data 内部数据
+- external data 外部数据
+
+### Principles of risk data aggregation
+- governance
+- data architecture and IT infrastructure
+- accuracy and intergrity 准确性和真实性
+- completeness
+- timeliness 及时性
+- adaptability
+
+## Risk Reporting
+
+### Principles:
+- accuracy
+- comprehensiveness 综合性
+- clarity and usefulness 清晰性和实用性
+- frequency
+- distribution 发送（给哪些人）
+
+- Review 审查
+- Remedial actions and supervisory meansures 补救和监管措施
+- Home/host cooperation 合作
+
+# Enterprise Risk anagement(ERM 全面风险管理) and Future Trend
+
+## Traditional approach to risk management
+
+- manage risk in organizational silos (market, credit and operational risks were treated separately)
+- short coming: 
+    - risk are highly interdependent(independent) and cannot be segmented
+    - result in inefficient and costly
+    - various business units may use different methods and models, top management and the board may not easy to understand
+
+## Introduction of Enterprise Risk anagement(ERM 全面风险管理) 
+
+### The feature of ERM
+
+- comprehensive and intergrated(一体化), enterprise-level view of risk 
+- top-down 自上而下
+- focus on the largest threats
+
+### Benefits of ERM
+
+### motivation to adopt ERM
+
+- top to bottom --vertical vision 垂直视角
+- concentrations of risk within the firm
+- thinking beyond Silos
+- Relevant insurance (don’t insure the kettle)
+
+### five dimensions of ERM
+
+- Targets: risk appetite snd how it relates to its strategic goals
+- Structure 组织架构
+- Identification and Metrics 风险识别和度量工具 （关键）
+- Strategies
+- Culture
+
+### risk culture
+- internal culture indicator
+- external factors
+- challenges to the risk culture
+
+### Scenario analysis: ERM’s sharpest blade 情景分析和压力测试 stress test
+
+
+
