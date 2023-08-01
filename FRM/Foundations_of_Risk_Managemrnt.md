@@ -513,12 +513,22 @@ key factors:
   - basis risk = Spot price - Futures price 基差风险
 - Model risk
   - Niederhoffer
-  - Long Term Capital Management
+  - Long Term Capital Management 长期资本管理公司
+    - Relative value strategies 相对价值策略: arbitrage on similar securities with different prices, profit from the price convergence
+    - Credit spread strategies信贷利差策略:$CS = R_{risky} - R_{risk-free}$, credit spread tended to revert to average long-term historical levels 长期均值回复
+    - Equity volatility strategy股票波动率策略: equity volatility \tended to revert to average long-term historical levels 长期均值回复
   - London Whale
 - Rogue trading and misleading reporting 魔鬼交易和误导性的风险报告
+  - Baring 巴林银行 Nick Leeson  （Short Straddles: short call + short put;  Arbitrage trading）
 - Financial engineering and complex derivatives
+  - Bankers Trust(BT)
+  - Orange County
+  - Sachsen Landesbank
 - Reputational risk
+  - Volkswagen 大众汽车
 - Corporate governance
+  - Enron
 - Cyber risk 网络风险
+  - Swift
 
 # The Financial Crisis of 2007-2009 
