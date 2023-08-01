@@ -509,7 +509,7 @@ key factors:
 - Implementing hedging strategies
   - Static strategy 静态对冲
   - Dynamic strategy 动态对冲
-  - Metallgesellschaft 德国金属公司
+  - Metallgesellschaft 德国金属公司 (backwardation to contango)
   - basis risk = Spot price - Futures price 基差风险
 - Model risk
   - Niederhoffer
