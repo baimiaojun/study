@@ -494,4 +494,31 @@ $$R_i = E(R_i) + \beta_{i, 1}F_1 + \beta_{i, 2}F_2 + ... + \beta_{i, k}F_k + e_i
 ### Scenario analysis: ERM’s sharpest blade 情景分析和压力测试 stress test
 
 
+# Financial Disasters
 
+key factors:
+- interest rate risk
+  - using classical duration matching tools 久期匹配工具, e.g. caps(call option), fools(put options), swaps
+  - U.S. S&L industry美国储贷协会（saving and loan）储贷危机
+- Funding liquidity risk融资流动性风险
+  - external market conditions
+  - structural problems within a bank’s balance sheet
+  - Lehman Brothers 雷曼兄弟
+  - Continental illinois
+  - Northern Rock 北岩银行
+- Implementing hedging strategies
+  - Static strategy 静态对冲
+  - Dynamic strategy 动态对冲
+  - Metallgesellschaft 德国金属公司
+  - basis risk = Spot price - Futures price 基差风险
+- Model risk
+  - Niederhoffer
+  - Long Term Capital Management
+  - London Whale
+- Rogue trading and misleading reporting 魔鬼交易和误导性的风险报告
+- Financial engineering and complex derivatives
+- Reputational risk
+- Corporate governance
+- Cyber risk 网络风险
+
+# The Financial Crisis of 2007-2009 
