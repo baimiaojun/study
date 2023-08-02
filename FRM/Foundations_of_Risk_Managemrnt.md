@@ -581,3 +581,36 @@ Two main instruments:
     - Recapitalization注入资本 -- good in later period
     - liability guarantees负债担保 -- show weak result
   - Asset purchases 资产购买 -- showweak result
+
+# GAPR Code of Conduct 道德
+
+## Code of conduct 行为守则
+1. Professional integrity and ethical conduct 
+  - honesty, intergrity正直, competence
+  - must avoid disguised contrivances 严禁造假
+2. Conflicts of interest 利益冲突: fair disclosure
+3. Confidentiality 保密性
+4. Fundamental Responsibilities
+5. Best practies 最佳实践
+6. Communication and Disclosure
+  - clear
+  - appropriate to the circumstances
+
+## Rules of Conduct 行为准则
+
+1. Professional integrity and ethical conduct 
+  - professionally, ethically
+  - independence of thought and direction
+  - take reasonable precautions
+  - shall not misrepresent details
+  - shall not engage in any professional conduct that reflects negatively on their honesty...
+  - shall not engage in any conduct that compromises the integrity of the GAPR,FRM designation FRM称号不能乱用
+  - shall be mindful of cultural differences
+2. Conflicts of interest 利益冲突: fair disclosure
+3. Confidentiality 保密性
+4. Fundamental Responsibilities
+  - laws,rules,regulations
+  - should have ethical responsibilities
+5. general accepted practices
+
+## Applicability and Enforcement 执行
