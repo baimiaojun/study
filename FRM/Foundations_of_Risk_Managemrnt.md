@@ -532,3 +532,52 @@ key factors:
   - Swift
 
 # The Financial Crisis of 2007-2009 
+
+## The build-up to the financial crisis
+
+### OTD model (originated to distributed)
+
+### Securilization
+
+### Structuring
+- Tranche
+- Collateralized debt obligation (CDO) 担保债务凭证
+  - Senior tranche 最优层
+  - Mezzanine tranche 夹层
+  - Equity tranche 最差层
+- Credit default Swap (CDS) 信用违约互换
+
+### Delinquencies on Subprime Mortgages Rose 次贷不良率攀升
+Reasons:
+- undercollateralized 抵押不足
+- zero down paymen 0首付
+- teaser rates 诱惑性贷款利率 2/28 adjustable-rate 30-year mortgage
+- very little incentive to conduct proper due dillgence 无动力做尽职调查
+- the ability to refinance mortgages ahead of the reset date was declined significantly 再融资能力下降
+- heavy demand for subprime mortgage products
+
+
+## The liquidity and credit crunch 流动性紧缩
+
+### The short-term Wholwsale Debt Market 短期批发融资市场
+
+Two main instruments:
+- repurchase aggrements(Repo) 回购
+- commercial paper (CP) 商票: Asset-backed commerical paper (ABCP)
+
+### The liquidity and credit crunch Hits
+- Asset-liability maturity mismatch 期限错配
+- Network effects 网络效应
+
+## The roles of institutions and the policy responses
+
+- Structured investment vehicles (SIVs) 结构化投资工具, also called conduits 通道
+- Criticism of rating agencies
+- The policy responses:
+  - Central bank: monetary policy 货币政策
+    - Interest rate change(reduction) -- not good
+    - Liquidity support --good
+  - Covernment:financial sector stabilization measures
+    - Recapitalization注入资本 -- good in later period
+    - liability guarantees负债担保 -- show weak result
+  - Asset purchases 资产购买 -- showweak result
